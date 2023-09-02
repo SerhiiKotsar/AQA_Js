@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "task_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "examples.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
